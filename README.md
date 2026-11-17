@@ -29,6 +29,10 @@ Transformo dados de frete em decisões que **reduzem custos** e geram **resultad
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
@@ -36,7 +40,9 @@ Transformo dados de frete em decisões que **reduzem custos** e geram **resultad
 ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)
 ![To Do](https://img.shields.io/badge/To%20Do-2564CF?style=flat&logo=microsofttodo&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ## 🪜 Trajetória
 
